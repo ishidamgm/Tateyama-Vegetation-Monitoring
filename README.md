@@ -1,96 +1,10 @@
----
-title: "北アルプス立山溶岩台地の森林植生　(Montane vegetation of lavae plateau of Mt. Tateyama)"
-author: "富山県(Toyama pref.)・岐阜大学山地管理学研究室　(Labo. of Montane ecology and management,  Gifu univ. )"
-date: "2020/7/30"
-output: 
-  html_document:
-    toc: true
-    toc_float: true
-    　collapsed: false
-    　 number_sections: true
+# 富山県立山植生モニタリング調査
 
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
----
-# 立山溶岩台地と調査位置図
-
-![tateyama_LavaPlateau.JPG](img/tateyama_LavaPlateau.JPG)
-
-# ブナ坂　1200m
-![1200m_bunazaka_FagusForest.jpg](img/1200m_bunazaka_FagusForest.jpg)
-
-![1200m_bunazaka_SugiTaiboku.jpg](img/1200m_bunazaka_SugiTaiboku.jpg) 
-
-![1200m_bunazaka_FagusForest_summer.jpg](img/1200m_bunazaka_FagusForest_summer.jpg)
+わが国では，1960～70 年代の観光開発ブームに乗って，富士スバルライン，乗鞍スカイ ライン，石鎚スカイラインなど多くの観光道路が山岳地域に開設されたが，開発に伴う自然環境の破壊も社会問題化した(横山 1998，浅香・山村 1974)。立山もまた、北アルプスの一大山岳観光地として自動車道路の建設が 1953 年（昭和 28 年）に美女平から始まり、1955 年（昭和 30 年）に弘法まで開通した。その後、追分（1957 年）、弥陀ヶ原（1958 年）、天狗平（1963 年）、室堂（1964 年）とバスの運行区間が延伸するにつれて利用者数は次第に増加した。1970 年（昭和 45 年）には桂台～美女平間の自動車道路が完成し、標高 663m の桂台と 2,450m の室堂が１本の車道で結ばれた。1971 年には立山黒部アルペンルートが全線開通し、利用者数は前年の 10 万人台後半から 65 万 6 千人へと一挙に増加し（日本自然保護協会・富山県自然保護協会 1976）、その後も毎年約 80～150 万人の観光客の入込みが維持されている。立山の自然環境を正確に把握し，また，保全していくためには，道路沿線，その対照地として道路から離れた道路・観光客の入込の影響の少ない地点での植生を，客観的な手法で長期にモニタリングしていくことが必要である。 立山植生モニタリング調査（立山植生研究会 1998 年発足，表 1.1）は，平成 10 年度より，富山県によって実施されてきた立山地域の主なモニタリング調査(参考文献参照)を引き継ぎ，立山地域の植生，樹木，気象，立地環境等の自然生態系の構成要素について定量的に長期観測することを目的として始められた。アルペンルート沿線の主要な植生タイプにおいて，人為的な影響を強く受けている地点と，ほぼ同標高帯で道路から離れた人為的影響の少ない地点に対照区をとり調査を行っている。本調査は第I期(立山植生研究会1998 年開始)，II期(同 2002 年開始)，III期(同 2008 年開始)，III期(同 2014 年開始)を経て現在のIV期に至っている。
 
 
+## 立山溶岩台地の植生
+[Tateyama web site (.html)](https://dl.dropboxusercontent.com/s/zjpc7e65dvj0xq8/index.html)
 
-# ブナ平　1200m
-
-![1200m_bunadaira_SnowSeason.JPG](img/1200m_bunadaira_SnowSeason.JPG)
-
-
-# 上の小平　1450m
-![1450m_kaminikodaira_EcotoneMixedForest.jpg](img/1450m_kaminikodaira_EcotoneMixedForest.jpg)
-
-![1450m_kaminikodaira_Kurobe.jpg](img/1450m_kaminikodaira_Kurobe.jpg)
-
-# 弥陀ヶ原　1800m
-![1800m_MidagaharaMire.jpg](img/1800m_MidagaharaMire.jpg)
-
-![1800m_MidagaharaMire_StudySite_AerialPhoto.jpg](img/1800m_MidagaharaMire_StudySite_AerialPhoto.jpg)
-
-![1800m_MidagaharaMire_StudySite_pools.jpg](img/1800m_MidagaharaMire_StudySite_pools.jpg)
-
-# 美松　2000m
-![2000m_Mimatsu_AbiesMariesii.jpg](img/2000m_Mimatsu_AbiesMariesii.jpg)
-
-# 鏡石　2250m
-
-![2250m_Kagamiishi_TimberLine.jpg](img/2250m_Kagamiishi_TimberLine.jpg)
-
-![2250m_Kagamiishi_TimberLine_Abies-PinusPumira.jpg](img/2250m_Kagamiishi_TimberLine_Abies-PinusPumira.jpg)
-# 雪の大谷　2400m
-
-![yukinoootani_2020.jpg](img/yukinoootani_2020.jpg)
-
-# 浄土山　2850m
-
-![2850m_Joudo-PinusPumira.jpg](img/2850m_Joudo-PinusPumira.jpg)
-
-![2850m_Joudo-Ptarmigan.jpg](img/2850m_Joudo-Ptarmigan.jpg)
-
-
-# 立山溶岩台地における標高、温量指数、森林タイプの関係
-
-![tateyama_Altitude_Temp_ForestType.JPG](img/tateyama_Altitude_Temp_ForestType.JPG)
-
-# 林分構成樹種・胸高直径階の多様性Diversity of Diametric Species (Gonzalo & Timo, 2020)
-
-![DiametricTreeSpecies.png](img/DiametricTreeSpecies.png)
-
-# <a href="https://www1.gifu-u.ac.jp/~gfsc/tateyama/Toyama_Tateyama_Reports.htm">●報告書/reports</a>
-
-
-
-## 戻る
-<center>
-<font size="2" font face="MSゴシック">
-<br><br>
-
-<a href="https://www1.gifu-u.ac.jp/~ishidam/sanchi/sanchikanri.htm">●山地管理学研究室</a>
-<a href="https://www1.gifu-u.ac.jp/~gufarm/html/index.html">●附属 岐阜フィールド科学教育研究センター</a>
-<a href="http://www.abios.gifu-u.ac.jp/">●応用生物科学部</a>
-<a href="http://www.gifu-u.ac.jp/">●岐阜大学</a>
-<br>
-<br>
-
-<a href="javascript:history.go(-1)">戻る</a>
-
-<center>
-</td>
-
-
+## 2020年度報告書
+[Tateyama reprot](https://dl.dropboxusercontent.com/s/q1w1x8t8rmz4ixp/ToyamaPref_2020_AnnualReportTateyamaVegetationMonitoring.pdf)
